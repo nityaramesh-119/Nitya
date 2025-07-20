@@ -1,18 +1,5 @@
 # HumanEmotions
-Human Emotions that can be articulated for everyone.
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Human Emotions</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <header>
-    <h1>Human Emotions</h1>
-    <p>Where every emotion and expression is valid.</p>
-  </header>
+Emotions that can be articulated for everyone.
 
   <section class="intro">
     <p>Welcome to a space that embraces every feeling — loud or quiet, fleeting or forever. Whether you're looking for the right word to express how you feel or simply seeking to understand, you're in the right place.</p>
